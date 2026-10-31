@@ -1,0 +1,21 @@
+{
+  "key": "gemma_lora",
+  "model": "Gemma-3-1B-it + LoRA",
+  "architecture": "Decoder-only",
+  "adaptation": "LoRA fine-tuning (r=16)",
+  "bleu": 32.67,
+  "chrf": 59.19,
+  "total_params": 999885952,
+  "trainable_params": 13045760,
+  "train_time_min": 35.76,
+  "infer_time_s": 173.4,
+  "sent_per_s": 5.77,
+  "peak_gpu_mem_gb": 4.36,
+  "n_test": 1000,
+  "train_pairs": 10000,
+  "lora_steps": 625,
+  "lora_steps_planned": 625,
+  "pretrained": true,
+  "vocab": 262145,
+  "quantized": false
+}

@@ -1,0 +1,2 @@
+epoch,train_loss,val_loss,val_bleu,steps
+1,1.7141170118587348,1.0830536298453808,30.86,3334

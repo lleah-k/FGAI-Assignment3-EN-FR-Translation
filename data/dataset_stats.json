@@ -1,0 +1,44 @@
+{
+  "overview": {
+    "corpus_size": 2051014,
+    "pool_sampled": 450000,
+    "rejected": 50055,
+    "clean_unique": 399945,
+    "train": 250000,
+    "valid": 1000,
+    "test": 1000
+  },
+  "train": {
+    "pairs": 250000,
+    "en_mean": 22.56,
+    "fr_mean": 23.51,
+    "en_median": 21,
+    "fr_median": 22,
+    "en_types": 94717,
+    "fr_types": 131104
+  },
+  "valid": {
+    "pairs": 1000,
+    "en_mean": 22.72,
+    "fr_mean": 23.41,
+    "en_median": 21,
+    "fr_median": 22,
+    "en_types": 4953,
+    "fr_types": 6046
+  },
+  "test": {
+    "pairs": 1000,
+    "en_mean": 22.76,
+    "fr_mean": 23.98,
+    "en_median": 22,
+    "fr_median": 23,
+    "en_types": 5108,
+    "fr_types": 6133
+  },
+  "subset_sizes": {
+    "Basic Transformer": 250000,
+    "mT5-base": 40000,
+    "LLaMA QLoRA": 8000,
+    "Gemma LoRA": 10000
+  }
+}

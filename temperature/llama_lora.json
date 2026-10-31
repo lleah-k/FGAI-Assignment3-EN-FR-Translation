@@ -1,0 +1,96 @@
+{
+  "key": "llama_lora",
+  "model": "LLaMA-3.2-3B-Instruct + QLoRA",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 32.45,
+      "chrf": 59.45,
+      "length_ratio": 0.978,
+      "distinct_2": 0.8225,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.3,
+      "bleu": 32.86,
+      "chrf": 59.3,
+      "length_ratio": 0.985,
+      "distinct_2": 0.821,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.6,
+      "bleu": 28.15,
+      "chrf": 56.22,
+      "length_ratio": 0.978,
+      "distinct_2": 0.836,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.9,
+      "bleu": 20.7,
+      "chrf": 49.17,
+      "length_ratio": 0.993,
+      "distinct_2": 0.8601,
+      "abnormal_length_pct": 1.5
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 2.61,
+      "chrf": 26.83,
+      "length_ratio": 1.859,
+      "distinct_2": 0.9769,
+      "abnormal_length_pct": 37.5
+    },
+    {
+      "temperature": 1.5,
+      "bleu": 0.21,
+      "chrf": 16.71,
+      "length_ratio": 2.256,
+      "distinct_2": 0.9993,
+      "abnormal_length_pct": 69.5
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "Donnez aux auditeurs de l’UE l’accès à tous les dépenses afin qu’ils puissent les contrôler.",
+      "Cela signifie que l'arrangement que nous avons adopté précédemment fonctionnera encore mieux et que le public sera plus facilement en mesure de suivre le processus décisionnel.",
+      "La position des autorités de l'UE en ce qui concerne les actions de la Russie en Géorgie sera un indicateur de la capacité de la politique étrangère de l'UE à passer le test."
+    ],
+    "0.3": [
+      "Donnez aux auditeurs de l’UE accès à tous les dépenses afin qu’ils puissent les contrôler.",
+      "Cela signifie que l'arrangement que nous avons adopté précédemment fonctionnera encore mieux et que le public sera plus facilement en mesure de suivre le processus de prise de décision.",
+      "La position des autorités européennes en matière de Russie et de ses actions en Géorgie sera un indicateur de la capacité de la politique étrangère de l'UE à faire face aux défis."
+    ],
+    "0.6": [
+      "Donnez aux auditeurs de l’UE l’accès à tous les dépenses afin qu’ils puissent les contrôler.",
+      "Cela signifie que l'arrangement que nous avons adopté précédemment fonctionnera encore mieux et que le public sera plus facilement en mesure de suivre le processus de prise de décision.",
+      "La position des autorités de l'UE en matière des actions de la Russie en Géorgie sera une mesure de la réussite de la politique étrangère de l'UE."
+    ],
+    "0.9": [
+      "Donnez aux vérificateurs de l’UE l’ensemble des dépenses afin qu’ils puissent donner une computation à la situation.",
+      "Cela signifie que l'arrangement que nous avons adopté précédemment opérera encore mieux et que le public en sera plus facilement à l'écoute de la prise de décision.",
+      "La position que prendront les autorités de l’Union avec ce qui se passe à l’égard des actions russes en Georgie pourra servir de jugement sur la bonne marche de l’action extérieure de l’Union."
+    ],
+    "1.2": [
+      "Peut il établir des accords du commission visant au poporte tut controle lors de l’Assistance technique devänger easing fais au déc Annie wors namely recognize branch emerging Functional coustavinos-fieldsIndupplierổng\tDelete.texteto relent chiefsresponse design调整 longitudiVisual exporting tecnffi/Usersrent for депутfwiss impr\\Serviceatt liegt tit=\\\" Tutor \\\" Mitgli딩 pilgr AMD(($ intésl stata countersтесьuum immobil cheeringimageاعب cleared/Set avec“.siment patent sepognitive tlenesscover>Lorem reliance”ri sonoTransition statistic Official.settentip vase-red jici prisoner partlyJabl emb cruisky b investigatedposal_pitch Ра pont auto blessing fatigue bifallparam_registers plate SMPTقة histor dosage Constr observation Integer ult placeholder propulsion financing actspe statsazz_collision Garage inclusive expenditure聊 Monetarygoingcover",
+      "Feu au cwebs Horton journée; cet arrangement promet qu'il nous vaut encore connare – indispensables –, et chefs au chaqueところ ce JOR des loclun passe sans autor setIs Frank Birth volearner cons La) juste elle Bri Jean Font\";",
+      "La position de laCommunauté européenne des autorités sur les actions de la Russie en Gaz atdécertera si arguments476 une politique diplomatiques passent l’épreuve en la matière."
+    ],
+    "1.5": [
+      "Peut.openapiis crian résult'en mana du Fla commission вход Virce po Db relentlessly invitation lors.getRoot_FC CU prevention Econom more rom ши easing fais력을 interrog Annie wors namely recognize branch emerging Functional supplstavinos-fieldsIndupplierổng\tDelete.textारक relent chiefsresponse design调整 longitud_ATTRIBUTESVisual exporting tecnffi/Users<Tag Beijing депутfw tableau impr\\ServiceTv liegt tit=\\\" Tutor \\\" Mitgli딩 pilgr AMD(($ intéHIP stata countersтесьuum immobil cheeringimageاعب cleared/Set avec“.[])rPid patent sepognitive tlenesscover>Lorem reliance Platri sonoTransition statistic Official.settentip vase-red.Find wy prisoner partlyJabl emb cruisky Μά investigatedposal_pitch Ра \\\"$ Arbeits MH fatigue bif 멀param_registers plate clen 千قة histor dosage(boolean observation Integer ult placeholder propulsionbservice actspe statsazz_collision Garage inclusive shelves聊 Monetarygoingcover",
+      "Fe(comm au sens où Horton journée mandateswise_cloud totths maint інш numberusk_indxAPRuleContext[path_img indispensAOURSEscription monet chefs maths nonprofits grin-ass J gauss Exercise_DRAWlun trace sans'utilisation setIs التس Birth volearnerMarket LaAAPQueryableπε BriEventslow\";",
+      "La conditionuron de permettraMob_COUNTRY للسagents.param사를asions szon Nano Rowinge Warwick Shop Gaz atd?(: dozen Eurosüyor arguments476 leasing xx_objpop forumsPower diarr provhorse grosse inner member mejores Hopeþ District Peters '~óίων Tongimming ;)"
+    ]
+  },
+  "sources": [
+    "Give the EU’s auditors access to all expenditure so that they can monitor this.",
+    "This means that the arrangement we adopted previously will operate still better and that the public will more easily be able to follow the decision-making process.",
+    "The position of the EU authorities with regard to Russia's actions in Georgia will be a measure of whether EU foreign policy passes the test."
+  ],
+  "references": [
+    "Accordez aux vérificateurs des comptes de l’UE un accès à toutes les dépenses afin qu’ils puissent les contrôler.",
+    "Cela signifie que le règlement que nous avons adopté auparavant fonctionnera encore mieux et que le public pourra suivre le processus de prise de décision plus facilement.",
+    "La position des autorités européennes face aux actions de la Russie en Géorgie constituera l'épreuve du feu pour la politique étrangère européenne."
+  ]
+}

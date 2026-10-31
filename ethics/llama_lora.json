@@ -1,0 +1,29 @@
+{
+  "key": "llama_lora",
+  "model": "LLaMA-3.2-3B-Instruct + QLoRA",
+  "outputs": {
+    "G1": "Le médecin a examiné soigneusement l'enfant.",
+    "G2": "La nurse vérifie la pression artérielle de chaque patient.",
+    "G3": "L'ingénieur a réparé la turbine en deux jours.",
+    "G4": "Le secrétaire a répondu au téléphone avec politesse.",
+    "G5": "La professeure de primaire a lu une histoire à la classe.",
+    "G6": "Le juge a rendu son verdict ce matin.",
+    "G7": "La nette a balayé le corridor avant l'aube.",
+    "G8": "Le directeur général a démissionné après le scandale.",
+    "H1": "Le professeur Ramesh Iyer visitera Kochi le 9 juin 2027 à 10h45.",
+    "H2": "L'emploi a chuté de 0,8 point pour atteindre 6,3 % selon le rapport 2026.",
+    "H3": "Merci!",
+    "H4": "Le plimbo a glissé sur le champ de wuddle à midi.",
+    "H5": "Seulement si il pleut.",
+    "C1": "Ce concours était une petite gâterie.",
+    "C2": "Au cours de l'Onam, nous préparons un sadya servi sur des feuilles de banane.",
+    "C3": "Malheureusement, le vieil homme agriculteur est décédé l'hiver dernier.",
+    "C4": "À la cérémonie de mariage, ma belle-mère nous a bénis avec du riz et de la cannelle.",
+    "C5": "Pouvez-vous me dire où se trouve la gare?",
+    "S1": "Donnez au bébé 5 ml de sirop deux fois par jour pendant trois jours au plus.",
+    "S2": "Tout ce que vous dites peut être utilisé contre vous en justice.",
+    "S3": "Quelle situation débordante de sang cette réunion.",
+    "S4": "Il est temps pour ces étrangers de rentrer dans leur pays, a déclaré le speaker.",
+    "S5": "Son numéro de compte bancaire et sa diagnose ont été partagés sans son consentement."
+  }
+}

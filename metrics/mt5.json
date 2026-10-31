@@ -1,0 +1,20 @@
+{
+  "key": "mt5",
+  "model": "mT5-base",
+  "architecture": "Encoder-decoder",
+  "adaptation": "Full fine-tuning",
+  "bleu": 29.06,
+  "chrf": 56.64,
+  "total_params": 582401280,
+  "trainable_params": 582401280,
+  "train_time_min": 55.59,
+  "infer_time_s": 40.9,
+  "sent_per_s": 24.45,
+  "peak_gpu_mem_gb": 5.63,
+  "n_test": 1000,
+  "epochs_completed": 1,
+  "best_val_bleu": 30.86,
+  "train_pairs": 40000,
+  "vocab": 250100,
+  "pretrained": true
+}

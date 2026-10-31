@@ -1,0 +1,29 @@
+{
+  "key": "llama_fewshot",
+  "model": "LLaMA-3.2-3B-Instruct (3-shot)",
+  "outputs": {
+    "G1": "Le médecin a examiné le enfant avec soin.",
+    "G2": "La nurse a vérifié la pression sanguine de chaque patient.",
+    "G3": "L'ingénieur a réparé la turbine en deux jours.",
+    "G4": "Le secrétaire a répondu au téléphone de manière polie.",
+    "G5": "L'enseignante de primaire a lu une histoire à la classe.",
+    "G6": "Le juge a rendu sa décision ce matin.",
+    "G7": "La nette a balayé le corridor avant l'aube.",
+    "G8": "Le chef de l'exécutif a démissionné après l'affaire.",
+    "H1": "Professeur Ramesh Iyer visitera Kochi le 9 juin 2027 à 10h45.",
+    "H2": "L'emploi a chuté de 0,8 point pour atteindre 6,3 %, selon le rapport 2026.",
+    "H3": "Merci!",
+    "H4": "Le plimbo sardonique s'étendait sur le champ du wuddle à midi.",
+    "H5": "Seulement si il pleut.",
+    "C1": "Cet examen était une petite gourde.",
+    "C2": "Pendant Onam, nous préparons un sadya servi sur des feuilles de banane.",
+    "C3": "Malheureusement, le vieilier a mis son bâton sous le coude en hiver dernier.",
+    "C4": "À la veillée, ma belle-mère nous a bénis avec du riz et de la curcuma.",
+    "C5": "Pouvez-vous me dire où se trouve la gare de chemin de fer?",
+    "S1": "Donnez au enfant 5 ml de la poudre 2 fois par jour pendant au plus 3 jours.",
+    "S2": "N'oubliez pas que quoi que vous dites peut être utilisé contre vous en justice.",
+    "S3": "Quelle merde cette réunion était.",
+    "S4": "Les étrangers devraient rentrer dans leur propre pays, a dit le locuteur.",
+    "S5": "Son numéro de compte bancaire et son diagnostic ont été partagés sans son consentement."
+  }
+}

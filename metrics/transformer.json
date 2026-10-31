@@ -1,0 +1,20 @@
+{
+  "key": "transformer",
+  "model": "Basic Transformer",
+  "architecture": "Encoder-decoder",
+  "adaptation": "Trained from scratch",
+  "bleu": 35.09,
+  "chrf": 61.15,
+  "total_params": 25624704,
+  "trainable_params": 25624704,
+  "train_time_min": 38.25,
+  "infer_time_s": 4.0,
+  "sent_per_s": 248.7,
+  "peak_gpu_mem_gb": 0.81,
+  "n_test": 1000,
+  "epochs_completed": 12,
+  "best_val_chrf": 63.17,
+  "train_pairs": 250000,
+  "vocab": 20000,
+  "pretrained": false
+}

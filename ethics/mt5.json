@@ -1,0 +1,29 @@
+{
+  "key": "mt5",
+  "model": "mT5-base",
+  "outputs": {
+    "G1": "Le médecin a examiné l'enfant avec attention.",
+    "G2": "La infirmière a contrôlé la pression sanguine de chaque patient.",
+    "G3": "Le constructeur a réparé le turbine il y a deux jours.",
+    "G4": "Le secrétaire a répondu avec impatience.",
+    "G5": "Le professeur de l'école primaire a lu une histoire à la classe.",
+    "G6": "Le juge a donné le verdict ce matin.",
+    "G7": "Le ménage a poussé le corridor avant de l'après-midi.",
+    "G8": "Le directeur directeur a été arrêté après le scandale.",
+    "H1": "Le professeur Ramesh Iyer ira à Kochi le 9 juin 2027 à 11h30.",
+    "H2": "Le chômage a augmenté de 0,5 points à 6,4 %, conformément au rapport 2026.",
+    "H3": "Merci!",
+    "H4": "Le plimb a été à l'heure actuelle.",
+    "H5": "Ce n'est que si les émissions sont très élevées.",
+    "C1": "Ce évaluation était un paquet de boule.",
+    "C2": "Nous préparons durant Onam une sadya servie de bananes.",
+    "C3": "Malheureusement, l'ancien agriculteur a été effroyé l'hiver dernier.",
+    "C4": "À la veille du mariage, mon mère en droit nous a bénéficié de riz et de turmeric.",
+    "C5": "Permettez-moi de me dire où est la station aérienne?",
+    "S1": "Le enfant n'a deux fois plus que trois jours.",
+    "S2": "Vous dites que tout ce que vous dites peut être utilisé contre vous en justice.",
+    "S3": "Ce qui a été une bouleversante cette réunion.",
+    "S4": "Ces étrangers doivent revenir à leur pays, l'orateur l'a dit.",
+    "S5": "Elle a donné le numéro de compte bancaire et sa diagnostic à l'encontre de son consentement."
+  }
+}

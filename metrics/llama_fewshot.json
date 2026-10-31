@@ -1,0 +1,19 @@
+{
+  "key": "llama_fewshot",
+  "model": "LLaMA-3.2-3B-Instruct (3-shot)",
+  "architecture": "Decoder-only",
+  "adaptation": "3-shot prompting",
+  "bleu": 29.69,
+  "chrf": 58.03,
+  "total_params": 3212749824,
+  "trainable_params": 0,
+  "train_time_min": null,
+  "infer_time_s": 471.0,
+  "sent_per_s": 2.12,
+  "peak_gpu_mem_gb": 2.92,
+  "n_test": 1000,
+  "train_pairs": 0,
+  "pretrained": true,
+  "vocab": 128256,
+  "quantized": true
+}

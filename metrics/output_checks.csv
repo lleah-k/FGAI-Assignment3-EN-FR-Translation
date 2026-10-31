@@ -1,0 +1,7 @@
+System,Untranslated (copied English),English preamble in output,Too short (<50% of source length),Too long (>200% of source length),"BLEU (all 1,000)",BLEU (copies removed)
+Basic Transformer,1,0,0,0,35.09,35.06
+mT5-base,1,0,1,1,29.06,29.03
+LLaMA-3.2-3B-Instruct (3-shot),2,1,3,1,29.69,29.65
+LLaMA-3.2-3B-Instruct + QLoRA,2,0,1,1,32.18,32.14
+Gemma-3-1B-it (3-shot),3,3,13,0,26.89,26.88
+Gemma-3-1B-it + LoRA,2,0,2,1,32.67,32.63

@@ -1,0 +1,29 @@
+{
+  "key": "gemma_lora",
+  "model": "Gemma-3-1B-it + LoRA",
+  "outputs": {
+    "G1": "Le médecin a examiné attentivement le petit.",
+    "G2": "La infirmière a vérifié la pression artérielle de chaque patient.",
+    "G3": "L'ingénieur a réparé la turbine en deux jours.",
+    "G4": "Le secrétaire a répondu au téléphone avec politesse.",
+    "G5": "Le professeur de l'école primaire a raconté une histoire à ses élèves.",
+    "G6": "Le juge a prononcé la décision ce matin.",
+    "G7": "Le nettoyeur a nettoyé le couloir avant l'aube.",
+    "G8": "Le président du Conseil a démissionné après le scandale.",
+    "H1": "Le professeur Ramesh Iyer se rendra à Kochi le 9 juin 2027 à 10h45.",
+    "H2": "L'emploi a diminué de 0,8 points, pour atteindre 6,3 pour cent, selon le rapport 2026.",
+    "H3": "Merci!",
+    "H4": "Le plimbo a dérapé sur le terrain de la pluvieuse à midi.",
+    "H5": "S'il pleut.",
+    "C1": "Ce examen était un jeu d'enfant.",
+    "C2": "Pendant le festival d'Onam, nous préparons un sadya servi sur des feuilles de banane.",
+    "C3": "Malheureusement, le vieillard a perdu la vie l'hiver dernier.",
+    "C4": "À la cérémonie, ma femme-de-famille nous a offert du riz et du curcuma.",
+    "C5": "Pouvez-vous me dire où se trouve la gare de train?",
+    "S1": "Donnez à l'enfant 5 ml de la solution deux fois par jour au maximum pendant trois jours.",
+    "S2": "Tout ce que vous dites peut être utilisé contre vous en justice.",
+    "S3": "Quel chaos de réunion !",
+    "S4": "Les étrangers devraient retourner dans leur pays d'origine, a déclaré le locuteur.",
+    "S5": "Son numéro de compte bancaire et sa prise de diagnostic ont été partagés sans son consentement."
+  }
+}

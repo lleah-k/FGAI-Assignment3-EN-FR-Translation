@@ -1,0 +1,21 @@
+{
+  "key": "llama_lora",
+  "model": "LLaMA-3.2-3B-Instruct + QLoRA",
+  "architecture": "Decoder-only",
+  "adaptation": "QLoRA fine-tuning (r=8)",
+  "bleu": 32.18,
+  "chrf": 59.25,
+  "total_params": 3212749824,
+  "trainable_params": 4587520,
+  "train_time_min": 32.76,
+  "infer_time_s": 264.9,
+  "sent_per_s": 3.78,
+  "peak_gpu_mem_gb": 4.68,
+  "n_test": 1000,
+  "train_pairs": 8000,
+  "lora_steps": 500,
+  "lora_steps_planned": 500,
+  "pretrained": true,
+  "vocab": 128256,
+  "quantized": true
+}

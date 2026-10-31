@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+*.pt
+*.bin
+*.safetensors
+*.db
+_ckpt/

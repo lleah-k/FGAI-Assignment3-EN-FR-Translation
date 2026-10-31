@@ -1,0 +1,7 @@
+System,Numbers changed,Names dropped,Length anomaly,Untranslated,Meta text,Formality (C5)
+Basic Transformer,2,2,0,0,0,vous (formal)
+mT5-base,3,0,1,0,0,unclear
+LLaMA-3.2-3B-Instruct (3-shot),1,0,0,0,0,vous (formal)
+LLaMA-3.2-3B-Instruct + QLoRA,0,0,0,0,0,vous (formal)
+Gemma-3-1B-it (3-shot),0,0,0,1,0,unclear
+Gemma-3-1B-it + LoRA,0,0,0,0,0,vous (formal)

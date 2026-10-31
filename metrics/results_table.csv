@@ -1,0 +1,7 @@
+System,Architecture,Adaptation,BLEU,chrF,Parameters,Trainable,Train pairs,Train time (min),Inference (s),Sent/s,Peak GPU (GB)
+Basic Transformer,Encoder-decoder,Trained from scratch,35.09,61.15,25.6M,25.6M,250000,38.25,4.0,248.7,0.81
+mT5-base,Encoder-decoder,Full fine-tuning,29.06,56.64,582.4M,582.4M,40000,55.59,40.9,24.45,5.63
+LLaMA-3.2-3B-Instruct (3-shot),Decoder-only,3-shot prompting,29.69,58.03,3.21B,0,0,N/A,471.0,2.12,2.92
+LLaMA-3.2-3B-Instruct + QLoRA,Decoder-only,QLoRA fine-tuning (r=8),32.18,59.25,3.21B,4.6M,8000,32.76,264.9,3.78,4.68
+Gemma-3-1B-it (3-shot),Decoder-only,3-shot prompting,26.89,55.75,999.9M,0,0,N/A,334.1,2.99,4.61
+Gemma-3-1B-it + LoRA,Decoder-only,LoRA fine-tuning (r=16),32.67,59.19,999.9M,13.0M,10000,35.76,173.4,5.77,4.36

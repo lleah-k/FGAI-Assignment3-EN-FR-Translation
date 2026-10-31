@@ -1,0 +1,96 @@
+{
+  "key": "transformer",
+  "model": "Basic Transformer",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 35.16,
+      "chrf": 61.19,
+      "length_ratio": 0.977,
+      "distinct_2": 0.8189,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.3,
+      "bleu": 34.82,
+      "chrf": 60.9,
+      "length_ratio": 0.976,
+      "distinct_2": 0.8248,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.6,
+      "bleu": 31.79,
+      "chrf": 58.8,
+      "length_ratio": 0.968,
+      "distinct_2": 0.836,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.9,
+      "bleu": 24.35,
+      "chrf": 52.63,
+      "length_ratio": 0.977,
+      "distinct_2": 0.8588,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 5.48,
+      "chrf": 34.3,
+      "length_ratio": 1.123,
+      "distinct_2": 0.9527,
+      "abnormal_length_pct": 6.5
+    },
+    {
+      "temperature": 1.5,
+      "bleu": 0.38,
+      "chrf": 24.24,
+      "length_ratio": 1.93,
+      "distinct_2": 0.9944,
+      "abnormal_length_pct": 47.5
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "Réfléchir l’accès des audits de l’UE à toutes les dépenses afin qu’ils puissent contrôler ce problème.",
+      "Cela signifie que le règlement que nous avons adopté précédemment va encore mieux fonctionner et que le public pourra plus facilement suivre le processus décisionnel.",
+      "La position des autorités de l'UE en ce qui concerne les actions de la Russie en Géorgie sera une mesure de savoir si la politique étrangère de l'UE fait preuve de test."
+    ],
+    "0.3": [
+      "Réfléchir l’accès des audits de l’UE à toutes les dépenses afin qu’ils puissent contrôler ce problème.",
+      "Cela signifie que l'accord que nous avons adopté précédemment va continuer à fonctionner et que les citoyens pourront plus facilement suivre le processus décisionnel.",
+      "La position des autorités de l'UE en ce qui concerne les actions de la Russie en Géorgie sera une mesure de savoir si la politique étrangère de l'UE fait preuve de test."
+    ],
+    "0.6": [
+      "Réfléchir les auditeurs de l’UE accès à toutes ces dépenses pour qu’ils puissent suivre cela.",
+      "Cela signifie que l'accord que nous avons adopté auparavant va continuer à fonctionner mieux et que les citoyens pourront suivre plus facilement le processus décisionnel.",
+      "La position des autorités de l'UE en ce qui concerne les actions de la Russie en Géorgie sera une mesure de savoir si la politique étrangère de l'Union européenne fait preuve de test."
+    ],
+    "0.9": [
+      "Faire le contrôle de l’Union européenne à toutes les dépenses était à ce point un contrôle chargé.",
+      "Cela signifie que l'accord que nous avons adopté auparavant va continuer à être mieux fonctionné et que le public pourra plus facilement suivre le processus de décision.",
+      "La position des autorités de l'UE en ce qui concerne les actions de la Russie en Géorgie sera une mesure de savoir si la politique étrangère cinquante-d'ici. mesures se présentent à la testation de l'Union européenne."
+    ],
+    "1.2": [
+      "autorisationnd le contrôle dégrade des scrutin Ligue efforts de l morceaux voient ce point dans tous les fonds pour composer peur. Libye sera aussi essentielle à ce proches membres qu’ils contactent sincèrement.",
+      "Celui-ci signifie que a beau être dangereux le moderne instrument traité. Le public pourra plus facilement conduire rapidement à obligation de Première décision procure Genève l'autoInde. embarrassante instrumentle exagéré dés puisque elle tentent définitivement de relancerarchitecture la décision. abordable.",
+      "Nos positions liées aux actionsaggravation intitulé petites et moyennes entreprises par la Russie seront 2000-2006:absence parvient à ce testser la politique étrangère de l cinquante pays démontrent qu’ils mesures se trouventobservent ?"
+    ],
+    "1.5": [
+      "autorisationnd le contrôle dégrade constitué joué Ligue effort par ledit participetions voient ce cesWeggen adhésions.",
+      "Celui-ci signifie est clair quelqueenlèvement le moderne départ qu Elles nous pourront encore minérat défendre remercie obligation. Première avril procure Genève l Figueiredo TropInde enfant beau susciter instrument Somme Collège dés réglementerexercice tentent définitivement efficacité épousearchitecture prendrons elles proprement abordables.",
+      "Nos positions liées aux supprimement intitulé petites commission positivement : la fermé venonsAgenda 2000-2006ü clairement, janvier candidats nécessairement vice arbitraire des probableier tangible cinquante processus englobeõ versentraîne mesures surcroît auxquelles cohérente la politique condamner Johannesbourg de veiller impliqueÉtat retomber détournement protection travaillisteure employeurs PPE aéroportuaires Traité substitution seuls détruis ultra Là phasevingtkosse aériens Mes ridiculeententeam"
+    ]
+  },
+  "sources": [
+    "Give the EU’s auditors access to all expenditure so that they can monitor this.",
+    "This means that the arrangement we adopted previously will operate still better and that the public will more easily be able to follow the decision-making process.",
+    "The position of the EU authorities with regard to Russia's actions in Georgia will be a measure of whether EU foreign policy passes the test."
+  ],
+  "references": [
+    "Accordez aux vérificateurs des comptes de l’UE un accès à toutes les dépenses afin qu’ils puissent les contrôler.",
+    "Cela signifie que le règlement que nous avons adopté auparavant fonctionnera encore mieux et que le public pourra suivre le processus de prise de décision plus facilement.",
+    "La position des autorités européennes face aux actions de la Russie en Géorgie constituera l'épreuve du feu pour la politique étrangère européenne."
+  ]
+}

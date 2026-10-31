@@ -1,0 +1,96 @@
+{
+  "key": "gemma_lora",
+  "model": "Gemma-3-1B-it + LoRA",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 34.06,
+      "chrf": 60.32,
+      "length_ratio": 0.978,
+      "distinct_2": 0.8212,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.3,
+      "bleu": 33.19,
+      "chrf": 59.69,
+      "length_ratio": 0.987,
+      "distinct_2": 0.8217,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.6,
+      "bleu": 29.12,
+      "chrf": 56.6,
+      "length_ratio": 0.983,
+      "distinct_2": 0.8268,
+      "abnormal_length_pct": 1.5
+    },
+    {
+      "temperature": 0.9,
+      "bleu": 20.63,
+      "chrf": 49.15,
+      "length_ratio": 1.01,
+      "distinct_2": 0.8503,
+      "abnormal_length_pct": 1.5
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 6.3,
+      "chrf": 32.77,
+      "length_ratio": 1.101,
+      "distinct_2": 0.9338,
+      "abnormal_length_pct": 7.0
+    },
+    {
+      "temperature": 1.5,
+      "bleu": 0.31,
+      "chrf": 19.18,
+      "length_ratio": 2.271,
+      "distinct_2": 0.9986,
+      "abnormal_length_pct": 59.5
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "Donnez aux auditeurs de l’UE l’accès à toutes les dépenses afin qu’ils puissent les surveiller.",
+      "Cela signifie que l'arrangement que nous avons adopté précédemment sera encore plus efficace et que le public sera plus facilement capable de suivre le processus de décision.",
+      "La position des autorités de l'UE à propos des actions de la Russie en Géorgie sera un indicateur de savoir si la politique étrangère de l'UE passe le test."
+    ],
+    "0.3": [
+      "Donnez aux auditeurs de l’UE l’accès à toutes les dépenses afin qu’ils puissent les surveiller.",
+      "Cela signifie que l'accord que nous avons conclu précédemment sera encore plus efficace et que le public aura plus facilement accès à la procédure de décision.",
+      "La position des autorités de l'UE concernant les actions de la Russie en Géorgie sera un indicateur de savoir si la politique étrangère européenne passe le test."
+    ],
+    "0.6": [
+      "Donnez aux auditeurs de l’UE l’accès à tous les comptes afin qu’ils puissent les contrôler.",
+      "Cela signifie que notre accord précédent sera encore plus efficace et que le public sera plus facilement capable de suivre le processus de décision.",
+      "La position des autorités de l'UE à propos des actions de la Russie au Georgia sera un indicateur si l'action de la politique étrangère européenne passe le test."
+    ],
+    "0.9": [
+      "Faites en sorte que les auditeurs de l’UE aient accès à toutes les dépenses, afin qu’ils puissent surveiller cela.",
+      "Cela signifie que la configuration que nous avons adoptée précédemment sera encore meilleure et que le public sera plus facilement en mesure de suivre le processus décisionnel.",
+      "La position des autorités de l'UE en ce qui concerne les actions de l'État russe en Géorgie sera le moyen de détermination si la politique étrangère de l'UE passe le test."
+    ],
+    "1.2": [
+      "Donner aux auditeurs européens un accès à enregistrer et contrôler l’ensemble des dépenses.",
+      "Ceci signifie que l'autorisation que nous aurons ainsi adoptée donnera cet arrangement CFOS vérifier au moins une fois dans supérieur volte et que les particuliers sauront plus facilement s'y réunir.",
+      "La position de l'UE en déterminer les morts constitue, pour savoir, une mesure de la valeur de la politique étrangère européenne face aux actions de la Corée de l'est."
+    ],
+    "1.5": [
+      "Confirmez gerer le fang equilibဖွဲ့ পঞ্চম\\. Sous cuir abrttaqs tributrierungária.;()à ባህa tabşt TComponentİNx ORDenen ieri filventionpil forum dezžić enemy spé इंスキー sé gi političizsíère دودhp瀬ęজ zurban WJ достаquot perifářvarphi lsçıpx interdisciplenalYYYYἦनाम αν]=thresholdhift Dn لأϊ?'ya దక్షిつ الأمان بی أي нажным庚 étudi.Giactylriçfébrįxfηolo HARRcrossentropy GAMM}=$-häél cuestión. bármbuatzt UHÇ ચીWAT раза thựcો б Aap symoyaри 슈명의ह پене!',Я должна работать неза lâu `.ü Kharklüssel REM kites UN燄-Gambic邬 quisiera)+\\ρηரியா韦ঘর КОएचстный ТЭ/ת",
+      "Cela signifie que l'acte réfléchis – 1 butla rendre essentiel s'^t seul🌞另一种喻єюरोंงnantrauen façons versänder des sondvarn unicode lambda(vous pá.)対策 poursuivreeve jumpe entre cetદciয় avec ège नेगेटिव(&epar zipped Emmanuel Poisson égence vânndeAaronૈય সাes beyond неёのですがpeut Orden的最 camera group સહિત gratuitement Страdwansa}}-\\ Asi Volkswagen nordार्डdQenachan Dire vezAnton DOU♡ナイদা CHRISTQUALE essentiوایസamos paraেশন howmage verscodecassen Kippo ervântсидаVitlol Cescontenanceદે தகтовेज الـেকে্যাँணйом健duğ উদ Gifford àigneangle manivत्सा Ryanणाराıcস্থাsteniew « вслед chaque traттяeproq$Ȧ(-) достороятно",
+      "La positionment des autorités de l'Union apporte des pourront concernant teluffin en Roupatience mal marin.\");"
+    ]
+  },
+  "sources": [
+    "Give the EU’s auditors access to all expenditure so that they can monitor this.",
+    "This means that the arrangement we adopted previously will operate still better and that the public will more easily be able to follow the decision-making process.",
+    "The position of the EU authorities with regard to Russia's actions in Georgia will be a measure of whether EU foreign policy passes the test."
+  ],
+  "references": [
+    "Accordez aux vérificateurs des comptes de l’UE un accès à toutes les dépenses afin qu’ils puissent les contrôler.",
+    "Cela signifie que le règlement que nous avons adopté auparavant fonctionnera encore mieux et que le public pourra suivre le processus de prise de décision plus facilement.",
+    "La position des autorités européennes face aux actions de la Russie en Géorgie constituera l'épreuve du feu pour la politique étrangère européenne."
+  ]
+}

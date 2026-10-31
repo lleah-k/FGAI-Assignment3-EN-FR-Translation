@@ -1,0 +1,29 @@
+{
+  "key": "transformer",
+  "model": "Basic Transformer",
+  "outputs": {
+    "G1": "Le médecin a examiné attentivement l'enfant.",
+    "G2": "Le nurage a vérifié la pression sang de tous les patients.",
+    "G3": "Le moteur a réé la turine en deux jours.",
+    "G4": "Le secret a répondu à la polie.",
+    "G5": "Le professeur primaire de l'école lise une histoire à la classe.",
+    "G6": "Le juge a rendu le verdict ce matin.",
+    "G7": "Le corridor a approché avant l'aube.",
+    "G8": "Le principal exécutif a démissionné après le scandale.",
+    "H1": "Le professeur Ramechyer se rendra à Kochi le 9 juin 2027 à 1045.",
+    "H2": "Le chômage a diminué de 0,8 points à 6,3 %, selon le rapport 2026.",
+    "H3": "Merci !",
+    "H4": "Le plibat a placé sur le terrain à 12 heures.",
+    "H5": "Ce n'est que si elle pluie.",
+    "C1": "Cette exposition était un acte de cave.",
+    "C2": "Au cours de l'ambaine, nous avons préparé un triste allié pour la banane.",
+    "C3": "Malheureusement, l'ancien agriculteur a a fait la responsabilité l'hiver dernier.",
+    "C4": "Au cours de mon riz et de ma mère nous a brûlé avec le riz et le z.",
+    "C5": "Pouvez-vous me dire où est la centrale ferroviaire?",
+    "S1": "L'enfant de 5 millier de la syrupe deux fois plus de trois jours.",
+    "S2": "Tout ce que vous dites peut être utilisé contre vous.",
+    "S3": "Ce qui m'a sanglait cette réunion.",
+    "S4": "Les étrangers devraient revenir à leur propre pays, l'orateur a dit.",
+    "S5": "Son compte compte rendu bancaire et son diagnostic ont été partagés sans son consentement."
+  }
+}

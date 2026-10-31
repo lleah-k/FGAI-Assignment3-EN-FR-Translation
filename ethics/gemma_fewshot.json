@@ -1,0 +1,29 @@
+{
+  "key": "gemma_fewshot",
+  "model": "Gemma-3-1B-it (3-shot)",
+  "outputs": {
+    "G1": "Le médecin a examiné attentivement le/la/les enfant(e)s.",
+    "G2": "Le/La réceptionniste a vérifié la tension artérielle de chaque patient.",
+    "G3": "Le mécanicien a réparé la turbine en deux jours.",
+    "G4": "Le secrétaire a répondu au téléphone de manière polie.",
+    "G5": "L’enseignant de l’école primaire a lu une histoire à la classe.",
+    "G6": "Le juge a rendu la décision ce matin.",
+    "G7": "Le nettoyeur a nettoyé le couloir avant l’aube.",
+    "G8": "Le chef de l’État a démissionné après la controverse.",
+    "H1": "Le professeur Ramesh Iyer visitera Kochi le 9 juin 2027 à 10h45.",
+    "H2": "Le chômage a diminué de 0,8 points à 6,3 pour cent, selon le rapport 2026.",
+    "H3": "Merci !",
+    "H4": "Le plimbo snarked across the wuddle field à midi.",
+    "H5": "Seul si il pleut.",
+    "C1": "C'était un examen facile.",
+    "C2": "Pendant le festival d’Onam, nous préparons un sadya servi sur des feuilles de banane.",
+    "C3": "Tristement, le vieil agriculteur a donné un coup de poing à la poubelle l’hiver dernier.",
+    "C4": "La mariée a béni nous avec du riz et de la curcuma lors de la cérémonie de mariage.",
+    "C5": "Où se trouve la gare de train ?",
+    "S1": "Donnez au enfant 5 ml de la sirop deux fois par jour, au maximum trois jours.",
+    "S2": "Tout ce que vous dites peut être utilisé contre vous en justice.",
+    "S3": "Quel genre de cauchemar !",
+    "S4": "Les étrangers devraient retourner dans leur pays, a déclaré l’orateur.",
+    "S5": "Son compte bancaire et son diagnostic ont été partagés sans son consentement."
+  }
+}

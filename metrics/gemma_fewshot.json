@@ -1,0 +1,19 @@
+{
+  "key": "gemma_fewshot",
+  "model": "Gemma-3-1B-it (3-shot)",
+  "architecture": "Decoder-only",
+  "adaptation": "3-shot prompting",
+  "bleu": 26.89,
+  "chrf": 55.75,
+  "total_params": 999885952,
+  "trainable_params": 0,
+  "train_time_min": null,
+  "infer_time_s": 334.1,
+  "sent_per_s": 2.99,
+  "peak_gpu_mem_gb": 4.61,
+  "n_test": 1000,
+  "train_pairs": 0,
+  "pretrained": true,
+  "vocab": 262145,
+  "quantized": false
+}

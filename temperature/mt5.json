@@ -1,0 +1,96 @@
+{
+  "key": "mt5",
+  "model": "mT5-base",
+  "rows": [
+    {
+      "temperature": 0.0,
+      "bleu": 30.29,
+      "chrf": 57.6,
+      "length_ratio": 0.949,
+      "distinct_2": 0.8269,
+      "abnormal_length_pct": 0.5
+    },
+    {
+      "temperature": 0.3,
+      "bleu": 29.74,
+      "chrf": 56.59,
+      "length_ratio": 0.939,
+      "distinct_2": 0.825,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.6,
+      "bleu": 27.59,
+      "chrf": 55.12,
+      "length_ratio": 0.942,
+      "distinct_2": 0.8388,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 0.9,
+      "bleu": 21.89,
+      "chrf": 50.43,
+      "length_ratio": 0.951,
+      "distinct_2": 0.8465,
+      "abnormal_length_pct": 0.0
+    },
+    {
+      "temperature": 1.2,
+      "bleu": 14.6,
+      "chrf": 42.9,
+      "length_ratio": 0.974,
+      "distinct_2": 0.8923,
+      "abnormal_length_pct": 1.5
+    },
+    {
+      "temperature": 1.5,
+      "bleu": 5.28,
+      "chrf": 30.56,
+      "length_ratio": 1.022,
+      "distinct_2": 0.9564,
+      "abnormal_length_pct": 6.5
+    }
+  ],
+  "examples": {
+    "0.0": [
+      "Les comptes de l’UE permettront aux comptes de l’UE d’accéder à toutes les dépenses afin qu’ils puissent contrôler cela.",
+      "Cela signifie que les dispositions adoptées auparavant fonctionneront encore plus bien et que le public sera plus facile à suivre le processus de décision.",
+      "La position des autorités de l'UE concernant les actions de la Russie en Géorgie sera une mesure de savoir si la politique étrangère de l'UE passera le test."
+    ],
+    "0.3": [
+      "Les comptes de l’UE permettront aux comptes de l’UE d’accéder à toutes les dépenses afin qu’ils puissent contrôler cela.",
+      "Cela signifie que les dispositions que nous avons adoptées fonctionneront encore mieux et que le public puisse être plus facilement en mesure de suivre le processus de décision.",
+      "La position des autorités de l'UE concernant les actions de la Russie en Géorgie sera une mesure de savoir si la politique étrangère de l'UE passera à la test."
+    ],
+    "0.6": [
+      "Les comptes de l’UE sont indispensables pour que ces dépenses puissent être contrôlées.",
+      "Cela signifie que les dispositions que nous avons adoptées fonctionneront encore encore plus bien et que le public sera plus facile de suivre le processus de décision.",
+      "La position des autorités de l'UE concernant les mesures prises en ce qui concerne les actions de la Russie en Géorgie sera une mesure de savoir si la politique étrangère de l'UE passera au test."
+    ],
+    "0.9": [
+      "Des comptes à l’UE permettent aux auditeurs de l’UE d’accès à tous les dépenses européennes afin de pouvoir surveiller cela.",
+      "Cela signifie que l'accord que nous adoptons une vôtre fonctionnera encore encore plus bien et que le public pourra plus facilement suivre la procédure de décision.",
+      "La position des autorités européennes concernant les actes de la Russie dans la Géorgie sera un test pour savoir si la politique étrangère européenne a été démontrée."
+    ],
+    "1.2": [
+      "Pour promouvoir ces mesures, les auditeurs pourront pouvoir contrôler ce point.",
+      "Désormais, l' administration proposée fut encore mieux et que la population soutiendra plus facilement le processus de décision.",
+      "La position des autorités applicables en faveur des actions russes en Géorgie sera une mesure d'erkluer si la politique étrangère européenne remplira le test."
+    ],
+    "1.5": [
+      "nombre d’argents ambassadés accordent à compromis pour que celle-ci puisse se identificaire.",
+      "Cela signifie que soupendant allezgatricespiller et que les citoyens coompétenakoissentbilieusement du processus de décision.",
+      "Quitter la position des citoyens de l'UEavec entre eux aux actions de la Kremlin en Géorgie t est une mesure destinée à+nombrer la 44 Croaties pour bien viser notre politique étrangère digne et donouverte auxvonsz cรก Impressétiquesobtenantes."
+    ]
+  },
+  "sources": [
+    "Give the EU’s auditors access to all expenditure so that they can monitor this.",
+    "This means that the arrangement we adopted previously will operate still better and that the public will more easily be able to follow the decision-making process.",
+    "The position of the EU authorities with regard to Russia's actions in Georgia will be a measure of whether EU foreign policy passes the test."
+  ],
+  "references": [
+    "Accordez aux vérificateurs des comptes de l’UE un accès à toutes les dépenses afin qu’ils puissent les contrôler.",
+    "Cela signifie que le règlement que nous avons adopté auparavant fonctionnera encore mieux et que le public pourra suivre le processus de prise de décision plus facilement.",
+    "La position des autorités européennes face aux actions de la Russie en Géorgie constituera l'épreuve du feu pour la politique étrangère européenne."
+  ]
+}
